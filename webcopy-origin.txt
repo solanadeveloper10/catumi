@@ -1,0 +1,196 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\www.catbal.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/66df0b5a4a2129bcca74eb86%2F66e053710be622d1060be3d5_original-9f1b938f31538d9d4c07f4dbe340d925 (1)-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\www.catbal.io\66df0b5a4a2129bcca74eb8666e053710be622d1060be3d5_original-9f1b938f31538d9d4c07f4dbe340d925 (1)-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67051b0df553e4c1d0583c93_Switzer-Medium.woff
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67051b0df553e4c1d0583c93_Switzer-Medium.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67051b0df553e4c1d0583c94_Switzer-Italic.woff
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67051b0df553e4c1d0583c94_Switzer-Italic.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67051b0df553e4c1d0583c95_Switzer-Regular.woff
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67051b0df553e4c1d0583c95_Switzer-Regular.woff
+Content Type: application/x-font-woff
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67051b0df553e4c1d0583c9f_Line.svg
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67051b0df553e4c1d0583c9f_Line.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67051b0df553e4c1d0583d10_original-9f1b938f31538d9d4c07f4dbe340d925 (1)-transcode.mp4
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67051b0df553e4c1d0583d10_original-9f1b938f31538d9d4c07f4dbe340d925 (1)-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67051b0df553e4c1d0583d10_original-9f1b938f31538d9d4c07f4dbe340d925 (1)-transcode.webm
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67051b0df553e4c1d0583d10_original-9f1b938f31538d9d4c07f4dbe340d925 (1)-transcode.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67051b0df553e4c1d0583d5e_16.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67051b0df553e4c1d0583d5e_16.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67051b0df553e4c1d0583d63_8.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67051b0df553e4c1d0583d63_8.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67051b0df553e4c1d0583d7d_Arrow-cta.svg
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67051b0df553e4c1d0583d7d_Arrow-cta.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67051b0df553e4c1d0583db2_Frame 427322071.svg
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67051b0df553e4c1d0583db2_Frame 427322071.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/670523268576da228d40c45d_Logo 2-p-1080.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\670523268576da228d40c45d_Logo 2-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/670523268576da228d40c45d_Logo 2-p-1600.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\670523268576da228d40c45d_Logo 2-p-1600.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/670523268576da228d40c45d_Logo 2-p-2000.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\670523268576da228d40c45d_Logo 2-p-2000.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/670523268576da228d40c45d_Logo 2-p-2600.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\670523268576da228d40c45d_Logo 2-p-2600.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/670523268576da228d40c45d_Logo 2-p-3200.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\670523268576da228d40c45d_Logo 2-p-3200.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/670523268576da228d40c45d_Logo 2-p-500.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\670523268576da228d40c45d_Logo 2-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/670523268576da228d40c45d_Logo 2-p-800.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\670523268576da228d40c45d_Logo 2-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/670523268576da228d40c45d_Logo 2.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\670523268576da228d40c45d_Logo 2.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67052529b6bfa7e38955c53e_HERO.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67052529b6bfa7e38955c53e_HERO.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/670525d2053de22b412b30c6_HERO wb.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\670525d2053de22b412b30c6_HERO wb.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67067036627f955d4b891b74_Catcabal Table Final.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67067036627f955d4b891b74_Catcabal Table Final.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/6706786e2ea4e557a5250048_Partners.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\6706786e2ea4e557a5250048_Partners.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/6706896427c32f66870cf3a3_OLDENGL.TTF
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\6706896427c32f66870cf3a3_OLDENGL.TTF
+Content Type: application/x-font-ttf
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67068964d3a70dfd47349ee8_The Centurion .ttf
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67068964d3a70dfd47349ee8_The Centurion .ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67068c150c4d4c716c2e0dba_Hollogram Catbal.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67068c150c4d4c716c2e0dba_Hollogram Catbal.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/6706c4abb2cefbf69316a84f_Bez nazwy.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\6706c4abb2cefbf69316a84f_Bez nazwy.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/6706c673b066934d6a3d467c_Buttons-exp_0004_Learn-More.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\6706c673b066934d6a3d467c_Buttons-exp_0004_Learn-More.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/6706c80f2df2c575d65ee3e7_Buttons-exp_0003_Pledge.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\6706c80f2df2c575d65ee3e7_Buttons-exp_0003_Pledge.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/6706c86abad49ecde820a470_generate-nf-booton.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\6706c86abad49ecde820a470_generate-nf-booton.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/6706c8f1043787d3120d599a_watch-trailer-bootton.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\6706c8f1043787d3120d599a_watch-trailer-bootton.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/6706c9efea3b48e25adbcc22_Buttons-exp_0001_X.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\6706c9efea3b48e25adbcc22_Buttons-exp_0001_X.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/6706ca0417a390640f800419_Buttons-exp_0002_Telegram.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\6706ca0417a390640f800419_Buttons-exp_0002_Telegram.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/6707858cba24e646a22200e8_pop-up-bg.jpg
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\6707858cba24e646a22200e8_pop-up-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/671bbdc1828fa76333258c0d_COMIC-1-p-1080.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\671bbdc1828fa76333258c0d_COMIC-1-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/671bbdc1828fa76333258c0d_COMIC-1-p-500.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\671bbdc1828fa76333258c0d_COMIC-1-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/671bbdc1828fa76333258c0d_COMIC-1-p-800.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\671bbdc1828fa76333258c0d_COMIC-1-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/671bbdc1828fa76333258c0d_COMIC-1.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\671bbdc1828fa76333258c0d_COMIC-1.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/671fcb5240040ff60da19bbd_QuKHuM_Y_400x400.jpg
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\671fcb5240040ff60da19bbd_QuKHuM_Y_400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/671fcc21ba38324a7065f5b4_Rugman].png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\671fcc21ba38324a7065f5b4_Rugman].png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/671fe2e3fe08e7059dd79a07_Hyperswap.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\671fe2e3fe08e7059dd79a07_Hyperswap.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67251900a8fb8fa18e2fac5b_Comic Ep _2_Thumb-p-500.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67251900a8fb8fa18e2fac5b_Comic Ep _2_Thumb-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67251900a8fb8fa18e2fac5b_Comic Ep _2_Thumb-p-800.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67251900a8fb8fa18e2fac5b_Comic Ep _2_Thumb-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/67251900a8fb8fa18e2fac5b_Comic Ep _2_Thumb.png
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\67251900a8fb8fa18e2fac5b_Comic Ep _2_Thumb.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/css/cats-superb-site-51049e.webflow.01d2748b7.css
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\css\cats-superb-site-51049e.webflow.01d2748b7.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/67051b0cf553e4c1d0583c28/js/webflow.54da06ca4.js
+File Name: C:\Downloaded Web Sites\www.catbal.io\67051b0cf553e4c1d0583c28\js\webflow.54da06ca4.js
+Content Type: text/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=67051b0cf553e4c1d0583c28
+File Name: C:\Downloaded Web Sites\www.catbal.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://www.catbal.io/
+File Name: C:\Downloaded Web Sites\www.catbal.io\index.htm
+Content Type: text/html
+
