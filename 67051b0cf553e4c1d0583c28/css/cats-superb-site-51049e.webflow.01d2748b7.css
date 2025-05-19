@@ -210,6 +210,15 @@ th {
   font-style: normal;
 }
 
+
+
+@font-face {
+  font-family: 'Nanum Pen';
+  src: url('../font/nanumpen.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 [class^="w-icon-"],
 [class*=" w-icon-"] {
   speak: none;
@@ -2339,6 +2348,12 @@ figcaption {
   overflow: hidden;
 }
 
+@media (max-width: 700px) {
+  .section.silver.home-hero {
+    background-image: url("../Mob_pawavan.png");
+  }
+}
+
 .section.silver.home-intro-video {
   z-index: 250;
   display: none;
@@ -2354,6 +2369,12 @@ figcaption {
   background-size: auto 100%;
   border-radius: 30px 30px 0 0;
   height: 100vh;
+}
+
+@media (max-width: 700px) {
+  .section.silver.home-introduction {
+    background-image: url("../Mob_2.png");
+  }
 }
 
 .section.services {
@@ -2374,16 +2395,23 @@ figcaption {
 
 .section.white.below-sticky-works {
   background-color: #6edecc;
-  background-image: url("../67067036627f955d4b891b74_Catcabal Table Final.png");
+  background-image: url("../NFT_web.png");
   background-position: 50%;
   background-size: cover;
   height: 100vh;
   overflow: hidden;
 }
 
+@media screen and (max-width: 991px) {
+  .section.white.below-sticky-works {
+    background-image: url("../NFT_Mob.png");
+
+  }
+}
+
 .section.white.below-sticky-works-copy {
   background-color: #0000;
-  background-image: url("../67068c150c4d4c716c2e0dba_Hollogram Catbal.png");
+  background-image: url("../IMG_web.png");
   background-position: 50%;
   background-size: cover;
   border-radius: 0;
@@ -2391,8 +2419,21 @@ figcaption {
   overflow: hidden;
 }
 
+@media screen and (max-width: 991px) {
+  .section.white.below-sticky-works-copy {
+    background-image: url("../IMG_mob.png");
+
+  }
+}
+
 .section.white.dao {
-  background-image: url("../dao.png");
+  background-image: url("../Dao_web.png");
+}
+
+@media screen and (max-width: 991px) {
+  .section.white.dao {
+    background-image: url("../Dao_Mob.png");
+  }
 }
 
 .section.white-text-med-black-background {
@@ -2450,7 +2491,7 @@ figcaption {
   transform: translateX(-50%);
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 600px) {
   .footer-initiation {
     top: 65%;
   }
@@ -2465,6 +2506,18 @@ figcaption {
     top: 43%;
     right: 0;
     transform: translateX(-5%);
+  }
+}
+
+@media screen and (max-height: 750px) and (min-width: 600px) {
+
+
+  .footer-link-1 {
+    left: calc(50% - 150px);
+  }
+
+  .footer-link-2 {
+    right: calc(50% - 270px);
   }
 }
 
@@ -3238,6 +3291,14 @@ figcaption {
   inset: 0%;
 }
 
+@media (max-width: 700px) {
+  .background-overlay.home-hero {
+    /* background-image: url("../Mob_pawavan.png"); */
+  }
+}
+
+
+
 .background-overlay.home-intro {
   z-index: 15;
   background-color: var(--medium-black);
@@ -3253,6 +3314,7 @@ figcaption {
   font-family: Changa One, Impact, sans-serif;
   font-size: 8rem;
   line-height: 1;
+  color: #c2ffea !important;
 }
 
 .h2-heading.no-margin {
@@ -5497,7 +5559,7 @@ figcaption {
 
   .h2-heading.eeeee,
   .h2-heading.two-column-size-copy {
-    color: var(--white);
+    color: #c2ffea;
     text-align: left;
     text-shadow: -3px -3px 1px #000, 3px 3px 1px var(--aaaa);
     font-family: Changa One, Impact, sans-serif;
@@ -7428,11 +7490,16 @@ figcaption {
   animation: scroll 30s linear infinite;
 }
 
+.scrolling-content-right {
+  animation: scroll_right 30s linear infinite;
+}
+
 .text-item {
   display: inline-block;
   padding: 10px 5px;
-  font-size: 24px;
+  font-size: 40px;
   font-weight: bold;
+  font-family: Nanum Pen;
 }
 
 @keyframes scroll {
@@ -7442,5 +7509,113 @@ figcaption {
 
   100% {
     transform: translateX(-50%);
+  }
+}
+
+@keyframes scroll_right {
+  0% {
+    transform: translateX(-50%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+
+.content-wrapper.catumi_dao {
+  padding-top: 50vh;
+}
+
+@media screen and (max-width: 991px) {
+  .content-wrapper.catumi_dao {
+    padding-top: 55vh;
+  }
+}
+
+.catumi_dao .div-block-2 {
+  width: 100%;
+}
+
+/* 
+
+.catumi_dao .div-block-2::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  filter: blur(20px);
+  transform: translateX(-50%);
+  animation: smoke 4s ease-in-out infinite;
+}
+
+@keyframes smoke {
+
+  0%,
+  100% {
+    transform: translateX(-50%) scale(0.8);
+    opacity: 0.5;
+  }
+
+  50% {
+    transform: translateX(-50%) scale(1.2);
+    opacity: 0.8;
+  }
+} */
+
+
+
+/* Only animate when class is added */
+#mask-overlay {
+  position: fixed;
+  inset: 0;
+  background: black;
+  z-index: 9999;
+  opacity: 1;
+}
+
+#mask-overlay.start-animation {
+  mask-image: url('/67051b0cf553e4c1d0583c28/Animation_web.png');
+  mask-repeat: no-repeat;
+  mask-position: center;
+  mask-size: cover;
+  mask-composite: exclude;
+  animation: zoomMask 6s ease-out forwards;
+}
+
+#main-content {
+  visibility: hidden;
+}
+
+#main-content.start-animation {
+  visibility: visible;
+}
+
+@media screen and (max-width: 900px) {
+  #mask-overlay.start-animation {
+    animation: zoomMask2 6s ease-out forwards;
+  }
+}
+
+@keyframes zoomMask {
+  0% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: translateX(30%) scale(60);
+  }
+}
+
+@keyframes zoomMask2 {
+  0% {
+    transform: scale(1);
+  }
+
+  100% {
+    transform: translateX(110%) scale(60);
   }
 }
