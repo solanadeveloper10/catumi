@@ -7583,7 +7583,7 @@ figcaption {
   mask-position: center;
   mask-size: cover;
   mask-composite: exclude;
-  animation: zoomMask 6s ease-out forwards;
+  animation: zoomMask 4s ease-in forwards;
 }
 
 #main-content {
@@ -7596,7 +7596,7 @@ figcaption {
 
 @media screen and (max-width: 900px) {
   #mask-overlay.start-animation {
-    animation: zoomMask2 6s ease-out forwards;
+    animation: zoomMask2 4s ease-in forwards;
   }
 }
 
